@@ -1,0 +1,13 @@
+
+# Default ignored files
+.idea/workspace.xml
+
+# Intellij
+.idea/
+*.iml
+
+# out
+**/out/
+
+# calResults
+./results
